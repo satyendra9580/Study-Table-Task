@@ -62,7 +62,7 @@ const PracticeFeature = () => {
         
         <motion.div variants={itemVariants} className="relative">
           <img 
-            src="./public/assets/Group.png" 
+            src="./public/assets/group.png" 
             alt="Practice session with STUDYtable" 
             className="w-full h-auto rounded-lg"
           />
