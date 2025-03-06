@@ -23,3 +23,11 @@ This project is built with .
 - React
 - shadcn-ui
 - Tailwind CSS
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out to the project maintainer:
+
+- Name: Satyendra Singh
+- Email: seenu5180singh@gmail.com
+- GitHub: [satyendra9580](https://github.com/satyendra9580)
