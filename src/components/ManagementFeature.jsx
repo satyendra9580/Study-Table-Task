@@ -43,7 +43,7 @@ const ManagementFeature = () => {
         <motion.div variants={itemVariants} className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           <div className="relative">
             <img 
-              src="./public/assets/frame7.png" 
+              src="/assets/frame7.png" 
               alt="Academic life management" 
               className="w-full h-auto rounded-lg"
             />

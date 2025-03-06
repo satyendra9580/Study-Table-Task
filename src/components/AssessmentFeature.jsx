@@ -32,7 +32,7 @@ const AssessmentFeature = () => {
       >
         <motion.div variants={itemVariants} className="order-2 lg:order-1 relative">
           <img 
-            src="./public/assets/frame1.png" 
+            src="/assets/frame1.png" 
             alt="Personalized Assessment in STUDYtable" 
             className="w-full h-auto rounded-lg"
           />

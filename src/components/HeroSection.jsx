@@ -94,7 +94,7 @@ const HeroSection = () => {
         >
           <div className="relative z-10">
             <img 
-              src="./public/assets/frame.jpg" 
+              src="/assets/frame.jpg" 
               alt="Student studying with STUDYtable" 
               className="w-full h-auto rounded-lg"
             />

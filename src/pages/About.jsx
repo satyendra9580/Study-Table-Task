@@ -120,7 +120,7 @@ const About = () => {
             <motion.div variants={itemVariants} className="order-first md:order-last">
               <div className="aspect-video bg-gray-100 rounded-xl overflow-hidden relative shadow-xl">
                 <img 
-                  src="./public/assets/frame1.png" 
+                  src="/assets/frame1.png" 
                   alt="STUDYtable team working" 
                   className="w-full h-full object-cover"
                 />
